@@ -1,2 +1,6 @@
 [package]
 name = "antimatter-prune"
+edition = "2021"
+
+[dependencies]
+mca = "1.0.0"
